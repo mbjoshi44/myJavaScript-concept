@@ -1,12 +1,12 @@
-// //HIGHER ORDER FUNCTION
-// // A function which are accept another function as arguments or return a function are 
-// // called higher function 
-// // in below example cal are the higher order function which are accept 3 arguments 
+ //HIGHER ORDER FUNCTION
+// A function which are accept another function as arguments or return a function are 
+ // called higher function 
+ // in below example cal are the higher order function which are accept 3 arguments 
 
 
 // import { button } from "./callApplyBind";
 
-// // two variables and one function
+ // two variables and one function
 // function add(a,b){
 //     return a+b;
 //    }

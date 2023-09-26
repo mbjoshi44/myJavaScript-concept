@@ -35,7 +35,7 @@
 //     }
 // }
 
-//  let obj1={name:"gc"}
+//  let obj1={name:"oc"}
 // obj.printfn.call(obj1)
 
 // function abc(val1,val2,val3){
